@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "lpqA8PNiXb7ZFG3e8flg2yxQmWGc1Xc+fIVqxeMRbi15SAaSX6wxL2i0Wo5G5zmTtHsHa4mx8pOVZgW4U81c5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\OneDrive\\Рабочий стол\\Projects\\C#\\Darsliklar\\AvtoTest\\AvtoTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\telegram.bot.extensions.polling\\1.0.2\\telegram.bot.extensions.polling.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
